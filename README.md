@@ -1,14 +1,28 @@
-# DiscordBot-TemplateFR
-Template d'un bot discord avec discord.py à jour.
+# Template-Bot
+<h1 align="center">Bienvenue sur la TemplateFR</h1>
 
-Assurez vous d'avoir une versio de python à jour.
+### 🏠 [Homepage](https://)
 
-Dans un premier temps, installer discord.py :
+## Prérequis : Discord.py
+
+Assurez vous d'avoir une version de python à jour.
 
 ```pip install git+https://github.com/Rapptz/discord.py```
 
-Une fois fait, vous devez généré le token de votre bot, et le placé dans .env comme ceci :
+## Usage
+
+Vous devez placé votre token précédement généré ici :
 
 ```DISCORD_TOKEN=TOKEN```
 
-Après ça, vous pouvez utiliser la template.
+La template deviens fonctionnel.
+
+## Author
+
+* Discord : **Spac#5054**
+* Github : [LoanSpac](https://github.com/LoanSpac)
+
+***
+## 📝 License
+
+Copyright © 2022 [Spac#5054](https://github.com/LoanSpac) CC BY-NC-SA.<br />
