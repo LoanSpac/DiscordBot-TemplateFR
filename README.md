@@ -11,9 +11,9 @@ Assurez vous d'avoir une version de python à jour.
 
 ## 🔧 Usage
 
-Vous devez placé votre token précédement généré ici :
+Vous devez placé votre token précédement généré dans le fichier .env :
 
-```DISCORD_TOKEN=TOKEN```
+```DISCORD_TOKEN=YOUR_TOKEN```
 
 La template deviens fonctionnel.
 
