@@ -1,5 +1,5 @@
 # DiscordBot-TemplateFR
-Template d'un bot discord avec discord.py 2.0
+Template d'un bot discord avec discord.py à jour.
 
 Assurez vous d'avoir une versio nde python à jour.
 
