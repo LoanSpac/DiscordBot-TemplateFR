@@ -1,7 +1,7 @@
 # DiscordBot-TemplateFR
 <h1 align="center">Bienvenue sur la TemplateFR</h1>
 
-### 🏠 [Homepage](https://github.com/LoanSpac/DiscordBot-TemplateFR/blob/Code/README.md)
+### 🏠 [Homepage](https://github.com/LoanSpac/DiscordBot-TemplateFR)
 
 ## Prérequis : Discord.py
 
