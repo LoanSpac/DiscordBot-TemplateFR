@@ -25,4 +25,4 @@ La template deviens fonctionnel.
 ***
 ## 📝 License
 
-Copyright © 2022 [Spac#5054](https://github.com/LoanSpac) CC BY-NC-SA.<br />
+Copyright © 2023 [Spac#5054](https://github.com/LoanSpac) CC BY-NC-SA.<br />
