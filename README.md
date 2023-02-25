@@ -3,13 +3,13 @@
 
 ### 🏠 [Homepage](https://github.com/LoanSpac/DiscordBot-TemplateFR)
 
-## Prérequis : Discord.py
+## 📚 Prérequis : Discord.py
 
 Assurez vous d'avoir une version de python à jour.
 
 ```pip install git+https://github.com/Rapptz/discord.py```
 
-## Usage
+## 🔧 Usage
 
 Vous devez placé votre token précédement généré ici :
 
@@ -17,7 +17,7 @@ Vous devez placé votre token précédement généré ici :
 
 La template deviens fonctionnel.
 
-## Author
+## 💫 Author
 
 * Discord : **Spac#5054**
 * Github : [LoanSpac](https://github.com/LoanSpac)
