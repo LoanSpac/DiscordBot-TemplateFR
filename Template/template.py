@@ -54,7 +54,7 @@ class frutsDropdown(discord.ui.Select):
         options = [
             discord.SelectOption(label="🍎 Pomme", description='Tu es team pomme ?'),
             discord.SelectOption(label="🍓 Fraise", description='Tu es team fraise ?'),
-            discord.SelectOption(label="🍌 Bannane", description='Tu es team bannane ?'),
+            discord.SelectOption(label="🍌 Banane", description='Tu es team banane ?'),
         ]
 
         super().__init__(placeholder="🍍 Choisi ton fruit !", options=options, min_values=1, max_values=1)
