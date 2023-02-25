@@ -1,7 +1,7 @@
 # DiscordBot-TemplateFR
 Template d'un bot discord avec discord.py à jour.
 
-Assurez vous d'avoir une versio nde python à jour.
+Assurez vous d'avoir une versio de python à jour.
 
 Dans un premier temps, installer discord.py :
 
