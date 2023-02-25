@@ -17,7 +17,7 @@ Vous devez placé votre token précédement généré ici :
 
 La template deviens fonctionnel.
 
-## 💫 Author
+## 📡 Author
 
 * Discord : **Spac#5054**
 * Github : [LoanSpac](https://github.com/LoanSpac)
