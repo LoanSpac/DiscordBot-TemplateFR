@@ -19,10 +19,10 @@ La template deviens fonctionnel.
 
 ## 📡 Author
 
-* Discord : **Spac#5054**
+* Discord : **loanspac**
 * Github : [LoanSpac](https://github.com/LoanSpac)
 
 ***
 ## 📝 License
 
-* 2023 [Spac#5054](https://github.com/LoanSpac) Open Source.<br />
+* 2023 [loanspac](https://github.com/LoanSpac) Open Source.<br />
