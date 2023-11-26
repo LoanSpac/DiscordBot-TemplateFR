@@ -22,6 +22,6 @@ La template deviens fonctionnel.
 * Github : [LoanSpac](https://github.com/LoanSpac)
 
 ***
-## 📝 License
+## 📝 Open Source
 
-* 2023 [loanspac](https://github.com/LoanSpac) Open Source.<br />
+* 2023 [loanspac](https://github.com/LoanSpac)<br />
