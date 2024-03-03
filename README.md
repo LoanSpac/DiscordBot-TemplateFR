@@ -1,14 +1,13 @@
 # DiscordBot-TemplateFR
 
-### 🏠 [Homepage](https://github.com/LoanSpac/DiscordBot-TemplateFR)
-
-## 📚 Prérequis : Discord.py
+## 📚 Prérequis
 
 Assurez vous d'avoir une version de python à jour.
+Puis installez la version de discord.py y correspondant
 
 ```pip install git+https://github.com/Rapptz/discord.py```
 
-## 🔧 Usage
+## 🔧 Utilisation
 
 Vous devez placé votre token précédement généré dans le fichier .env :
 
@@ -16,12 +15,6 @@ Vous devez placé votre token précédement généré dans le fichier .env :
 
 La template deviens fonctionnel.
 
-## 📡 Author
+## 📡 Contribution
 
-* Discord : **loanspac**
-* Github : [LoanSpac](https://github.com/LoanSpac)
-
-***
-## 📝 Open Source
-
-* 2023 [loanspac](https://github.com/LoanSpac)<br />
+* [LoanSpac](https://github.com/LoanSpac)
